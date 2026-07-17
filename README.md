@@ -20,9 +20,9 @@
   This project is a comprehensive end-to-end data analytics and machine learning solution built to analyze and predict user engagement across multi-platform social networks (Facebook, Instagram, LinkedIn, and Twitter/X). It unifies fragmented datasets through SQL database architecture, performs data cleaning, feature engineering, and statistical EDA using Python, trains high-accuracy machine learning predictive models (Random Forest), and delivers interactive visualization dashboards with a live ML engagement simulator using Streamlit.
 
 ### 📄 Project Documents
-1. GTU Report
-2. Project PPT
-3. Python zip file
+1. GTU Report: 
+2. Project PPT: https://docs.google.com/presentation/d/1kBPwyqAEQwKgzz6I4ShW4Mr8Su8wAc2C/edit?usp=drive_link&ouid=111402572417634376638&rtpof=true&sd=true
+3. Python zip file: https://drive.google.com/file/d/1Db9lcaM9Jik-560G5CEO0uVtCQKidzgl/view?usp=drive_link
 
 ---
 
