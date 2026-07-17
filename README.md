@@ -23,6 +23,7 @@
 1. GTU Report: 
 2. Project PPT: https://docs.google.com/presentation/d/1kBPwyqAEQwKgzz6I4ShW4Mr8Su8wAc2C/edit?usp=drive_link&ouid=111402572417634376638&rtpof=true&sd=true
 3. Python zip file: https://drive.google.com/file/d/1Db9lcaM9Jik-560G5CEO0uVtCQKidzgl/view?usp=drive_link
+4. Google Drive Folder: https://drive.google.com/drive/folders/1WMcjbzuzy8glpo0x3XTLGHfMNCylYvhi?usp=sharing
 
 ---
 
