@@ -6,6 +6,26 @@
 [![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
+
+---
+
+## 📌 Project Overview & Team Details
+
+- **Topic**: SOCIAL MEDIA ANALYTICS & ENGAGEMENT TRACKING
+- **Course**: Data Analytics using Python & SQL
+- **Team Members**:
+  1. Parth Dabhi
+  2. Keyur Sangani
+- **Brief Project Description**: 
+  This project is a comprehensive end-to-end data analytics and machine learning solution built to analyze and predict user engagement across multi-platform social networks (Facebook, Instagram, LinkedIn, and Twitter/X). It unifies fragmented datasets through SQL database architecture, performs data cleaning, feature engineering, and statistical EDA using Python, trains high-accuracy machine learning predictive models (Random Forest), and delivers interactive visualization dashboards with a live ML engagement simulator using Streamlit.
+
+### 📄 Project Documents
+1. GTU Report
+2. Project PPT
+3. Python zip file
+
+---
+
 An end-to-end enterprise data analytics solution built for a simulated digital marketing agency managing accounts across **Facebook, Instagram, LinkedIn, and Twitter (X)**. 
 
 This project unifies fragmented social media datasets, handles real-world raw data quality issues, executes advanced SQL analytical queries, performs Python EDA and Predictive Machine Learning, and delivers interactive Streamlit dashboards with live ML engagement prediction.
@@ -224,5 +244,8 @@ mysql -u root -p < sql/analysis_queries.sql
 
 ---
 
-## 👤 Author & Portfolio
-Built as a demonstration of Senior Data Analytics, SQL Engineering, Python ETL, Machine Learning, and Streamlit Web Application development.
+## 👥 Project Authors & Team
+- **Parth Dabhi**
+- **Keyur Sangani**
+
+*Built as part of the Data Analytics using Python & SQL course for Social Media Analytics & Engagement Tracking.*
