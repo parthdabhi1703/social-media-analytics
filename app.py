@@ -286,7 +286,7 @@ filtered_df = df_posts[mask]
 st.markdown(
     """
     <div class="app-header">
-        <div class="app-title">📊 Multi-Platform Social Media Analytics & AI Studio</div>
+        <div class="app-title">📊 Unified Multi-Platform Social Media Analytics & Engagement Tracking System</div>
         <div class="app-subtitle">Real-time performance metrics, audience demographics, channel efficiency & predictive ML for Facebook, Instagram, LinkedIn, and Twitter</div>
     </div>
     """,
