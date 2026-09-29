@@ -20,7 +20,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 # 1. PAGE CONFIGURATION & THEME INJECTION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Multi-Platform Social Media Analytics",
+    page_title="Unified Multi-Platform Social Media Analytics & Engagement Tracking System",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
